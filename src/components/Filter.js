@@ -1,5 +1,7 @@
 import React, {useState} from "react";
 import StickyBox from "react-sticky-box";
+import { CSSTransition } from 'react-transition-group';
+
 function Filter ({change, updateCategory, updateColor, updateSize}) {
     const [listDownCategory, setListDownCat]=useState(false);
     const [listDownColor, setListDownCol]=useState(false);
@@ -25,9 +27,12 @@ function Filter ({change, updateCategory, updateColor, updateSize}) {
             <div className="select-category">
                 <i className="material-icons expand-option" onClick={toggleDropdownCat}>expand_more</i>
                 <p>CATEGORY</p>
-                
-                {listDownCategory? 
-                <form className="filter-form">
+                <CSSTransition 
+                in={listDownCategory}
+                classNames="filter"
+                unmountOnExit> 
+
+                <form className="filterOption">
                 <div className="option">
                     <label>New in Shoes</label><input type="radio" id="shoes" name="garment" value="Shoes" onChange={updateCategory}/>  
                 </div>
@@ -44,15 +49,17 @@ function Filter ({change, updateCategory, updateColor, updateSize}) {
                     <label>New in Bags</label><input type="radio" id="bags" name="garment" value="Bags" onChange={updateCategory}/>
                 </div>
                 </form> 
-                : null}
+                </CSSTransition>
             </div>
 
         <div className="select-category">
             <i className="material-icons expand-option" onClick={toggleDropdownCol}>expand_more</i>
             <p>COLOR</p>
-            
-            {listDownColor? 
-            <form>
+            <CSSTransition 
+                in={listDownColor}
+                classNames="filter"
+                unmountOnExit> 
+            <form className="filterOption">
                 <div className="option">
                     <label><span className="black_dot dot"></span> Black</label>
                     <input type="radio" id="color1" name="color" value="black" onChange={updateColor}/>
@@ -90,15 +97,17 @@ function Filter ({change, updateCategory, updateColor, updateSize}) {
                     <input type="radio" id="color9" name="color" value="blue" onChange={updateColor}/>
                 </div>
             </form>
-            :null}
+            </CSSTransition>
         </div>
 
         <div className="select-category">
             <i className="material-icons expand-option" onClick={toggleDropdownSiz}>expand_more</i>
             <p>SIZE</p>
-            
-            {listDownSize? 
-            <form>
+            <CSSTransition 
+                in={listDownSize}
+                classNames="filter"
+                unmountOnExit> 
+            <form className="filterOption">
                 <div className="option">
                     <label> XXS</label>
                     <input type="radio" id="size1" name="size" value="xxs" onChange={updateSize}/>
@@ -136,7 +145,7 @@ function Filter ({change, updateCategory, updateColor, updateSize}) {
                     <input type="radio" id="size9" name="size" value="blue" onChange={updateSize}/>
                 </div>
             </form>
-            :null}
+            </CSSTransition>
         </div>
     </StickyBox>
     );

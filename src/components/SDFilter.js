@@ -1,4 +1,6 @@
 import React, {useState} from "react";
+import { CSSTransition } from 'react-transition-group';
+
 function SDFilter ({toggleFilterMenu, updateCategory, updateColor, updateSize}) {
     const [listDownCategory, setListDownCat]=useState(false);
     const [listDownColor, setListDownCol]=useState(false);
@@ -24,8 +26,11 @@ function SDFilter ({toggleFilterMenu, updateCategory, updateColor, updateSize}) 
                 <i className="material-icons expand-option" onClick={toggleDropdownCat}>expand_more</i>
                 <p>CATEGORY</p>
                 
-                {listDownCategory? 
-                <form className="filter-form">
+                <CSSTransition 
+                in={listDownCategory}
+                classNames="filter"
+                unmountOnExit>
+                <form>
                 <div className="option">
                     <label>New in Shoes</label><input type="radio" id="shoes" name="garment" value="Shoes" onChange={updateCategory}/>  
                 </div>
@@ -42,60 +47,66 @@ function SDFilter ({toggleFilterMenu, updateCategory, updateColor, updateSize}) 
                     <label>New in Bags</label><input type="radio" id="bags" name="garment" value="Bags" onChange={updateCategory}/>
                 </div>
                 </form> 
-                : null}
+                </CSSTransition>
             </div>
 
         <div className="select-category">
             <i className="material-icons expand-option" onClick={toggleDropdownCol}>expand_more</i>
             <p>COLOR</p>
             
-            {listDownColor? 
-            <form>
-                <div className="option">
-                    <label><span className="black_dot dot"></span> Black</label>
-                    <input type="radio" id="color1" name="color" value="black" onChange={updateColor}/>
-                </div>
-                <div className="option">
-                    <label><span className="grey_dot dot"></span> Grey</label>
-                    <input type="radio" id="color2" name="color" value="grey" onChange={updateColor}/>
-                </div>
-                <div className="option">
-                    <label><span className="white_dot dot"></span> White</label>
-                    <input type="radio" id="color3" name="color" value="white" onChange={updateColor}/>
-                </div>
-                <div className="option">
-                    <label><span className="brown_dot dot"></span> Brown</label>
-                    <input type="radio" id="color4" name="color" value="brown" onChange={updateColor}/>
-                </div>
-                <div className="option">
-                    <label><span className="beige_dot dot"></span> Beige</label>
-                    <input type="radio" id="color5" name="color" value="beige" onChange={updateColor}/>
-                </div>
-                <div className="option">
-                    <label><span className="red_dot dot"></span> Red</label>
-                    <input type="radio" id="color6" name="color" value="red" onChange={updateColor}/>
-                </div>
-                <div className="option">
-                    <label><span className="pink_dot dot"></span> Pink</label>
-                    <input type="radio" id="color7" name="color" value="pink" onChange={updateColor}/>
-                </div>
-                <div className="option">
-                    <label><span className="purple_dot dot"></span> Purple</label>
-                    <input type="radio" id="color8" name="color" value="purple" onChange={updateColor}/>
-                </div>
-                <div className="option">
-                    <label><span className="blue_dot dot"></span> Blue</label>
-                    <input type="radio" id="color9" name="color" value="blue" onChange={updateColor}/>
-                </div>
+            <CSSTransition 
+                in={listDownColor}
+                classNames="filter"
+                unmountOnExit>
+                <form>
+                    <div className="option">
+                        <label><span className="black_dot dot"></span> Black</label>
+                        <input type="radio" id="color1" name="color" value="black" onChange={updateColor}/>
+                    </div>
+                    <div className="option">
+                        <label><span className="grey_dot dot"></span> Grey</label>
+                        <input type="radio" id="color2" name="color" value="grey" onChange={updateColor}/>
+                    </div>
+                    <div className="option">
+                        <label><span className="white_dot dot"></span> White</label>
+                        <input type="radio" id="color3" name="color" value="white" onChange={updateColor}/>
+                    </div>
+                    <div className="option">
+                        <label><span className="brown_dot dot"></span> Brown</label>
+                        <input type="radio" id="color4" name="color" value="brown" onChange={updateColor}/>
+                    </div>
+                    <div className="option">
+                        <label><span className="beige_dot dot"></span> Beige</label>
+                        <input type="radio" id="color5" name="color" value="beige" onChange={updateColor}/>
+                    </div>
+                    <div className="option">
+                        <label><span className="red_dot dot"></span> Red</label>
+                        <input type="radio" id="color6" name="color" value="red" onChange={updateColor}/>
+                    </div>
+                    <div className="option">
+                        <label><span className="pink_dot dot"></span> Pink</label>
+                        <input type="radio" id="color7" name="color" value="pink" onChange={updateColor}/>
+                     </div>
+                    <div className="option">
+                        <label><span className="purple_dot dot"></span> Purple</label>
+                        <input type="radio" id="color8" name="color" value="purple" onChange={updateColor}/>
+                    </div>
+                    <div className="option">
+                        <label><span className="blue_dot dot"></span> Blue</label>
+                        <input type="radio" id="color9" name="color" value="blue" onChange={updateColor}/>
+                    </div>
             </form>
-            :null}
+            </CSSTransition>
         </div>
 
         <div className="select-category">
             <i className="material-icons expand-option" onClick={toggleDropdownSiz}>expand_more</i>
             <p>SIZE</p>
             
-            {listDownSize? 
+            <CSSTransition 
+                in={listDownSize}
+                classNames="filter"
+                unmountOnExit>
             <form>
                 <div className="option">
                     <label> XXS</label>
@@ -134,7 +145,7 @@ function SDFilter ({toggleFilterMenu, updateCategory, updateColor, updateSize}) 
                     <input type="radio" id="size9" name="size" value="blue" onChange={updateSize}/>
                 </div>
             </form>
-            :null}
+            </CSSTransition>
         </div>
         <button className="viewItems" onClick={toggleFilterMenu}>VIEW ITEMS</button>
     </div>

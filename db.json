@@ -1,0 +1,536 @@
+{
+  "shopCard": [
+      {
+          "section": "New Arrivals",
+          "img1": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Library-Sites-ganni-shared/default/dwda5cdf57/images/collections/22-2/Mega-Nav/22-2-mega-nav-21.jpg?sfrm=png",
+          "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Library-Sites-ganni-shared/default/dw0246c512/images/collections/22-2/Mega-Nav/22-2-mega-nav-02.jpg?sfrm=png",
+          "title1": "JUST LANDED",
+          "title2": "HERO DRESSES",
+          "categories": ["NEW ARRIVALS", "Dresses", "Tops", "T-shirts", "Denim", "Shoes", "Outerwear", "Knitwear", "Bags", "Hats"]
+      },
+      {
+          "section": "Clothing",
+          "img1": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Library-Sites-ganni-shared/default/dw24df6925/images/collections/22-2/Mega-Nav/22-2-mega-nav-17.jpg?sfrm=png",
+          "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Library-Sites-ganni-shared/default/dw23f5f6da/images/collections/22-2/Mega-Nav/22-2-mega-nav-18.jpg?sfrm=png",
+          "title1": "EXTRA TOPPINGS",
+          "title2": "SWIMMING TIME",
+          "categories":  ["ALL CLOTHING", "Dresses", "T-shirts", "Tops", "Denim", "Pants", "Skirts", "Shorts", "Swimwear", "Vests", "Knitwear", "Outwear", "Co-Ords", "Suits", "Loungewear", "Responsible Materials", "Trending Now", "Leopard Print", "Extended Sizes"]
+      },
+      {
+          "section": "Dresses",
+          "img1": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Library-Sites-ganni-shared/default/dw5abfa06c/images/collections/22-2/Mega-Nav/22-2-mega-nav-13.jpg?sfrm=png",
+          "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Library-Sites-ganni-shared/default/dwaeb4b55a/images/collections/22-2/Mega-Nav/22-2-mega-nav-16.jpg?sfrm=png",
+          "title1": "SUNDRESS SEASON",
+          "title2": "OCCASION DRESSES",
+          "categories": ["ALL DRESSES", "Short Dresses", "Midi Dresses", "Maxi Dresses", "Floral Dresses", "Animal Print Dresses", "Printed Dresses", "Everyday Dresses", "Party Dresses", "Vacation Dresses", "Wrap Dresses"]
+      },
+      {
+          "section": "Accessories",
+          "img1": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Library-Sites-ganni-shared/default/dw0d781ab3/images/collections/22-2/Mega-Nav/22-2-mega-nav-19.jpg?sfrm=png",
+          "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Library-Sites-ganni-shared/default/dwbde5dce0/images/collections/22-2/Mega-Nav/22-2-mega-nav-20.jpg?sfrm=png",
+          "title1": "SUMMER GEAR",
+          "title2": "ALL-AROUND BAGS",
+          "categories": ["ALL ACCESSORIES", "Bags", "Collars", "Hats", "Sunglasses", "Hair Accessories", "Jewelry", "Wallets", "Keyrings", "Phone Cases", "Socks", "Scarves", "Face Masks", "Boy Smells X GANNI", "GANNI Gimme More Book"]
+      },
+      {
+          "section": "Shoes",
+          "img1": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Library-Sites-ganni-shared/default/dw1c071fae/images/collections/22-2/Mega-Nav/22-2-mega-nav-14.jpg?sfrm=png",
+          "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Library-Sites-ganni-shared/default/dw6402925e/images/collections/22-2/Mega-Nav/22-2-mega-nav-15.jpg?sfrm=png",
+          "title1": "STEP INTO THE SUN",
+          "title2": "SUMMER SANDALS",
+          "categories": ["ALL SHOES", "Sandals", "Mules", "Loafers", "Flats", "Sneakers", "Boots"]
+      },
+      {
+          "section": "Collections",
+          "img1": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Library-Sites-ganni-shared/default/dwc7ccb615/images/collections/22-1/Mega-nav/mega-nav-45.jpg?sfrm=jpg",
+          "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Library-Sites-ganni-shared/default/dw4cf3271c/images/collections/22-1/Mega-nav/mega-nav-28.jpg?sfrm=png",
+          "title1": "GANNI X DR. SCHOLL'S",
+          "title2": "GANNI X JUICY COUTURE",
+          "categories": ["GANNI X Dr Scholl's", "GANNI X Ahluwalia", "GANNI X Juicy Couture", "Software", "GANNI Favorites", "GANNI Exclusives"]
+      },
+      {
+          "section": "GANNI World",
+          "img1": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Library-Sites-ganni-shared/default/dwe1b43223/images/collections/22-1/Mega-nav/mega-nav-41.jpg?sfrm=png",
+          "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Library-Sites-ganni-shared/default/dw1bef00cf/images/collections/22-1/Mega-nav/mega-nav-42.jpg?sfrm=png",
+          "title1": "GANNI WORLD",
+          "title2": "GANNI TALKS",
+          "categories": ["GANNI World", "GANNI Love Forever Ever", "GANNI Higher Love Experience SS22", "GANNI Talks", "GANNI Girls", "Book An Appointment", "RESPONSIBILITY", "Responsibility Report 2021", "Responsibility Report 2020", "Responsibility at GANNI", "Responsibility Board", "Responsible Materials Round-up", "Provenance"]
+      },
+      {
+          "section": "Vacation Shop",
+          "img1": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Library-Sites-ganni-shared/default/dw159c2412/images/collections/22-2/Homepage/22-2-28.jpg?sfrm=jpg",
+          "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Library-Sites-ganni-shared/default/dwa762b996/images/collections/22-2/Homepage/22-2-27.jpg?sfrm=jpg",
+          "title1": "SUNSHINE CITY",
+          "title2": "BACK TO THE BEACH",
+          "categories": ["Summer Outfits", "Partywear", "Beachwear", "City Break Essentials", "DISCOVER", "Summer Vacation Shop"]
+      }
+  
+  ],
+  
+  "items": [
+          {
+              "id": 1, 
+              "item_name": "MELANGE KNIT HALTERNECK TOP",
+              "category": "Tops",
+              "price": 145,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw4e1eccae/images/images/model/K1750-099-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwafd0ca91/images/images/packshots/K1750-099-1.jpg?sh=750",
+              "sizes": ["XXS", "XS", "S", "M", "L", "XL"],
+              "colors": "black"
+      
+          },
+      
+          {
+              "id": 2,
+              "item_name": "SEERSUCKER V-NECK BLOUSE",
+              "category": "Tops",
+              "price": 215,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwfa568aa7/images/images/model/F7068-275-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw28f67e38/images/images/packshots/F7068-275-1.jpg?sh=750",
+              "sizes": ["0", "2", "4", "6", "8/10", "10/12", "14"],
+              "colors": "grey"
+      
+          },
+      
+          {
+              "id": 3, 
+              "item_name": "LOGO T-SHIRT",
+              "category": "Tops",
+              "price": 95,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw3dad90e8/images/images/model/T3224-302-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw2da60b1d/images/images/packshots/T3224-302-1.jpg?sh=750",
+              "sizes": ["XXS", "XS", "S", "M", "L", "XL"],
+              "colors": "yellow"
+      
+          },
+      
+          {
+              "id": 4,
+              "item_name": "O-NECK VEST",
+              "category": "Tops",
+              "price": 235,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw03486ef6/images/images/model/K1761-135-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwef3302dd/images/images/packshots/K1761-135-1.jpg?sh=750",
+              "sizes": ["XXS", "XS", "S", "M", "L", "XL"],
+              "colors": "white"
+      
+          },
+      
+          {
+              "id": 5,
+              "item_name": "POPLIN SHIRT",
+              "category": "Tops",
+              "price": 165,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwdc5da53f/images/images/model/F7212-397-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwd68e78dc/images/images/packshots/F7212-397-1.jpg?sh=750",
+              "sizes": ["0", "2", "4", "6", "8/10", "10/12", "14"],
+              "colors": "pink"
+      
+          },
+      
+          {
+              "id": 6,
+              "item_name": "POPLIN WRAP TOP",
+              "category": "Tops",
+              "price": 195,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwe78192eb/images/images/model/F7129-099-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw70f4b392/images/images/packshots/F7129-099-1.jpg?sh=750",
+              "sizes": ["0", "2", "4", "6", "8/10", "10/12", "14"],
+              "colors": "black"
+      
+          },
+      
+          {
+              "id": 7,
+              "item_name": "CUTOUT SHIRT",
+              "category": "Tops",
+              "price": 235,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw0b56a6f2/images/images/model/F7044-681-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw5f2abd2f/images/images/packshots/F7044-681-1.jpg?sh=750",
+              "sizes": ["0", "2", "4", "6", "8/10", "10/12", "14"],
+              "colors": "blue"
+      
+          },
+      
+          {
+              "id": 8,
+              "item_name": "BEACH CAMI",
+              "category": "Tops",
+              "price": 135,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw3d0a5227/images/images/model/F7203-751-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw9a064405/images/images/packshots/F7203-751-1.jpg?sh=750",
+              "sizes": ["0", "2", "4", "6", "8/10", "10/12", "14", "16", "18", "20", "22"],
+              "colors": "green"
+      
+          },
+          {
+              "id": 9,
+              "item_name": "SEERSUCKER MINI DRESS",
+              "category": "Dresses",
+              "price": 255,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw74402f10/images/images/model/F7218-276-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwacc63ee5/images/images/packshots/F7069-275-1.jpg?sh=750",
+              "sizes": ["0", "2", "4", "6", "8/10", "10/12", "14"],
+              "colors": "blue"
+      
+          },
+      
+          {
+              "id": 10,
+              "item_name": "MAXI SLIP DRESS",
+              "category": "Dresses",
+              "price": 345,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwa6355c7a/images/images/model/F7059-560-5.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw591e03f9/images/images/packshots/F7059-560-1.jpg?sh=750",
+              "sizes": ["0", "2", "4", "6", "8/10", "10/12", "14"],
+              "colors": "grey"
+      
+          },
+      
+          {
+              "id": 11,
+              "item_name": "MAXI DRESS",
+              "category": "Dresses",
+              "price": 495,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw9197b79e/images/images/model/F7185-281-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwe3ce7a00/images/images/packshots/F7185-281-1.jpg?sh=750",
+              "sizes": ["0", "2", "4", "6", "8/10", "10/12", "14"],
+              "colors": "black"
+      
+          },
+      
+          {
+              "id": 12,
+              "item_name": "TIERED MIDI DRESS",
+              "category": "Dresses",
+              "price": 345,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw2ba25eca/images/images/model/F7098-288-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwc83894ef/images/images/packshots/F7098-288-1.jpg?sh=750",
+              "sizes": ["0", "2", "4", "6", "8/10", "10/12", "14"],
+              "colors": "yellow"
+      
+          },
+      
+          {
+              "id": 13,
+              "item_name": "COTTON POPLIN V-NECK FITTED MINI DRESS",
+              "category": "Dresses",
+              "price": 215,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw2d00ece3/images/images/model/F7132-099-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwa466f3a1/images/images/packshots/F7132-099-1.jpg?sh=750",
+              "sizes": ["0", "2", "4", "6", "8/10", "10/12", "14"],
+              "colors": "black"
+      
+          },
+      
+          {
+              "id": 14,
+              "item_name": "WRAP MIDI DRESS",
+              "category": "Dresses",
+              "price": 295,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw8bf5748d/images/images/model/F7220-681-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwb2de1030/images/images/packshots/F7220-681-1.jpg?sh=750",
+              "sizes": ["0", "2", "4", "6", "8/10", "10/12", "14"],
+              "colors": "blue"
+      
+          },
+      
+          {
+              "id": 15,
+              "item_name": "MINI DENIM DRESS",
+              "category": "Dresses",
+              "price": 375,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw4c44ea02/images/images/model/J1064-135-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwe580f838/images/images/packshots/J1064-135-1.jpg?sh=750",
+              "sizes": ["0", "2", "4", "6", "8/10", "10/12", "14"],
+              "colors": "pink"
+      
+          },
+      
+          {
+              "id": 16,
+              "item_name": "KNIT HALTER MIDI DRESS",
+              "category": "Dresses",
+              "price": 325,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw0ea1c95e/images/images/model/K1754-099-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwe90ef455/images/images/packshots/K1754-099-1.jpg?sh=750",
+              "sizes": ["0", "2", "4", "6", "8/10", "10/12", "14"],
+              "colors": "black"
+      
+          },
+          {
+              "id": 17,
+              "item_name": "CHELSEA BOOTS",
+              "category": "Shoes", 
+              "price": 495,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw29de2693/images/images/packshots/S1925-398-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw29de2693/images/images/packshots/S1925-398-1.jpg?sh=750",
+              "sizes": ["5", "6", "7", "8", "9", "10", "11", "12"],
+              "colors": "red"
+      
+          },
+      
+          {
+              "id": 18,
+              "item_name": "CHELSEA BOOTS",
+              "category": "Shoes", 
+              "price": 475,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw014ac51c/images/images/packshots/S1926-321-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw014ac51c/images/images/packshots/S1926-321-1.jpg?sh=750",
+              "sizes": ["5", "6", "7", "8", "9", "10", "11", "12"],
+              "colors": "yellow"
+      
+          },
+      
+          {
+              "id": 19,
+              "item_name": "WEDGE CLOGS",
+              "category": "Shoes", 
+              "price": 475,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw1dd39186/images/images/packshots/S1823-177-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw1dd39186/images/images/packshots/S1823-177-1.jpg?sh=750",
+              "sizes": ["5", "6", "7", "8", "9", "10", "11", "12"],
+              "colors": "brown"
+      
+          },
+      
+          {
+              "id": 20,
+              "item_name": "RETRO MULES",
+              "category": "Shoes", 
+              "price": 395,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw18729671/images/images/packshots/S1858-943-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw18729671/images/images/packshots/S1858-943-1.jpg?sh=750",
+              "sizes": ["5", "6", "7", "8", "9", "10", "11", "12"],
+              "colors": "brown"
+      
+          },
+      
+          {
+              "id": 21,
+              "item_name": "WEDGE CLOGS",
+              "category": "Shoes", 
+              "price": 475,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwa3d36696/images/images/packshots/S1823-099-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwa3d36696/images/images/packshots/S1823-099-1.jpg?sh=750",
+              "sizes": ["5", "6", "7", "8", "9", "10", "11", "12"],
+              "colors": "black"
+      
+          },
+      
+          {
+              "id": 22,
+              "item_name": "RETRO MULES",
+              "category": "Shoes", 
+              "price": 395,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw930828f6/images/images/packshots/S1824-099-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw930828f6/images/images/packshots/S1824-099-1.jpg?sh=750",
+              "sizes": ["5", "6", "7", "8", "9", "10", "11", "12"],
+              "colors": "black"
+      
+          },
+      
+          {
+              "id": 23,
+              "item_name": "VEGEA SNEAKERS",
+              "category": "Shoes", 
+              "price": 255,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw55f47a86/images/images/packshots/S1920-321-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw55f47a86/images/images/packshots/S1920-321-1.jpg?sh=750",
+              "sizes": ["5", "6", "7", "8", "9", "10", "11", "12"],
+              "colors": "yellow"
+      
+          },
+          {
+              "id": 24,
+              "item_name": "MOHAIR PULLOVER",
+              "category": "Knit", 
+              "price": 275,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw8a3f1fd5/images/images/model/K1742-560-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw82d3d1c7/images/images/packshots/K1742-560-1.jpg?sh=750",
+              "sizes": ["XXS/XS", "S/M", "L/XL"],
+              "colors": "purple"
+      
+          },
+      
+          {
+              "id": 25,
+              "item_name": "WOOL PULLOVER",
+              "category": "Knit",
+              "price": 375,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwa40f1ae8/images/images/model/K1733-135-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwb9986225/images/images/packshots/K1733-135-1.jpg?sh=750",
+              "sizes": ["XXS", "XS", "S", "M", "L", "XL"],
+              "colors": "red"
+      
+          },
+      
+          {
+              "id": 26,
+              "item_name": "V-NECK VEST",
+              "category": "Knit",
+              "price": 215,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw26cd83fa/images/images/model/K1758-999-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwf9f361a2/images/images/packshots/K1758-999-1.jpg?sh=750",
+              "sizes": ["XXS", "XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL"],
+              "colors": "pink"
+      
+          },
+      
+          {
+              "id": 27,
+              "item_name": "WOOL VEST",
+              "category": "Knit",
+              "price": 185,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw598826d2/images/images/model/K1744-302-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwfb1f9448/images/images/packshots/K1744-302-1.jpg?sh=750",
+              "sizes": ["XXS", "XS", "S", "M", "L", "XL"],
+              "colors": "yellow"
+      
+          },
+      
+          {
+              "id": 28,
+              "item_name": "WOOL VEST",
+              "category": "Knit",
+              "price": 185,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw92594786/images/images/model/K1744-398-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw26c39afb/images/images/packshots/K1744-398-1.jpg?sh=750",
+              "sizes": ["XXS", "XS", "S", "M", "L", "XL"],
+              "colors": "red"
+      
+          },
+      
+          {
+              "id": 29,
+              "item_name": "RELAXED WOOL CARDIGAN",
+              "category": "Knit",
+              "price": 375,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwe2a6c0fd/images/images/model/K1739-734-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw2a8925a2/images/images/packshots/K1739-734-1.jpg?sh=750",
+              "sizes": ["XXS", "XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL"],
+              "colors": "blue"
+      
+          },
+      
+          {
+              "id": 30,
+              "item_name": "BOUCLE TIERED HALTER TOP",
+              "category": "Knit",
+              "price": 165,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw1ed3d566/images/images/model/K1747-397-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwee54575d/images/images/packshots/K1747-397-1.jpg?sh=750",
+              "sizes": ["XXS", "XS", "S", "M", "L", "XL"],
+              "colors": "pink"
+      
+          },
+      
+          {
+              "id": 31,
+              "item_name": "CROPPED WOOL TIE CARDIGAN",
+              "category": "Knit",
+              "price": 255,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw7e69287a/images/images/model/K1741-734-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwdc18dd81/images/images/packshots/K1741-734-1.jpg?sh=750",
+              "sizes": ["XXS", "XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL"],
+              "colors": "blue"
+      
+          },
+          {
+              "id": 32,
+              "item_name": "EAST WEST CANVAS TOTE BAG",
+              "category": "Bags",
+              "price": 275,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwa3655e00/images/images/packshots/A4394-292-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwa3655e00/images/images/packshots/A4394-292-1.jpg?sh=750",
+              "sizes": ["ONE SIZE"],
+              "colors": "blue"
+      
+          },
+      
+          {
+              "id": 33,
+              "item_name": "EAST WEST CANVAS TOTE BAG",
+              "category": "Bags",
+              "price": 275,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw252abcd5/images/images/packshots/A4394-293-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw252abcd5/images/images/packshots/A4394-293-1.jpg?sh=750",
+              "sizes": ["ONE SIZE"],
+              "colors": "yellow"
+      
+          },
+      
+          {
+              "id": 34,
+              "item_name": "MEDIUM PILLOW BAGUETTE BAG",
+              "category": "Bags",
+              "price": 295,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw9b2c510e/images/images/packshots/A4428-099-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw9b2c510e/images/images/packshots/A4428-099-1.jpg?sh=750",
+              "sizes": ["ONE SIZE"],
+              "colors": "black"
+      
+          },
+      
+          {
+              "id": 35,
+              "item_name": "POUCH MINI BAG",
+              "category": "Bags",
+              "price": 375,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwd02cf9b1/images/images/packshots/A4403-099-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwd02cf9b1/images/images/packshots/A4403-099-1.jpg?sh=750",
+              "sizes": ["ONE SIZE"],
+              "colors": "black"
+      
+          },
+      
+          {
+              "id": 36,
+              "item_name": "SIDE-STRAP MINI BAG",
+              "category": "Bags",
+              "price": 195,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwe77e3211/images/images/packshots/A4356-099-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwe77e3211/images/images/packshots/A4356-099-1.jpg?sh=750",
+              "sizes": ["ONE SIZE"],
+              "colors": "black"
+      
+          },
+      
+          {
+              "id": 37,
+              "item_name": "BAG",
+              "category": "Bags",
+              "price": 185,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwd4ed8f15/images/images/packshots/A4421-099-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dwd4ed8f15/images/images/packshots/A4421-099-1.jpg?sh=750",
+              "sizes": ["ONE SIZE"],
+              "colors": "black"
+      
+          },
+      
+          {
+              "id": 38,
+              "item_name": "MEDIUM PILLOW BAGUETTE BAG",
+              "category": "Bags",
+              "price": 295,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw194e3bd8/images/images/packshots/A4428-681-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw194e3bd8/images/images/packshots/A4428-681-1.jpg?sh=750",
+              "sizes": ["ONE SIZE"],
+              "colors": "blue"
+      
+          },
+      
+          {
+              "id": 39,
+              "item_name": "RECYCLED FESTIVAL BAG",
+              "category": "Bags",
+              "price": 145,
+              "img": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw5e25e71e/images/images/packshots/A4478-751-1.jpg?sh=750",
+              "img2": "https://www.ganni.com/dw/image/v2/AAWT_PRD/on/demandware.static/-/Sites-ganni-master-catalogue/default/dw5e25e71e/images/images/packshots/A4478-751-1.jpg?sh=750",
+              "sizes": ["ONE SIZE"],
+              "colors": "green"
+      
+          }
+      
+  ]
+  }

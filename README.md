@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+##Ganni Mock New Arrivals Page  
+The project is a recreation of the Ganni New Arrivals page. My intention was to recreate the UI and basic UX using react and json server.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##Getting Started  
+  
+##Dependencies  
+React 0.69  
+react-sticky-box
+HTML5  
+CSS4  
+json-server  
+Material Icons  
+Font-Awesome 
+Google Fonts 
 
-## Available Scripts
+ 
 
-In the project directory, you can run:
+##Executing program  
+1. Clone the repository  
+2. Download the necessary dependencies listed above  
+3. Navigate into the repository and run the following command: ```json-server --watch db.json```  
+4. Assuming this command was successful, this will start up the json server so that any data can be accessed  
+5. Open a new command window and navigate into the repository  
+6. Run the following command: ```npm start```  
+7. Wait for the project to load and it should be all set!  
 
-### `npm start`
+##Authors  
+Please contact me for any questions regarding this repo.  
+Brooke Strand - marie.strand00@gmail.com  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+##Version History  
+0.2 (TBD)  
+For the next release I would like to include the following features/improvements:   
+-Additional filter features
+-Adding on sort feature
+-Use of backend database powered by Ruby in place of json-server package
 
-### `npm test`
+0.1  
+Initial Release  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+##License  
+Distributed under the MIT License.  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+##Acknowledgments  
+The images and listings I've used in this project were from the GANNI website. My intention was to recreate basic UI/UX of the New Arrivals page.   

@@ -70,13 +70,13 @@ function App() {
       {menuUp? <SDNavDropdown toggleMenu={toggleMenu}/> 
       :     
       <>
-      {filmenuUp? <SDFilter isDesktop={isDesktop} toggleFilterMenu={toggleFilterMenu} updateCategory={updateCategory} updateColor={updateColor} updateSize={updateSize} /> 
+      {filmenuUp? <SDFilter toggleFilterMenu={toggleFilterMenu} updateCategory={updateCategory} updateColor={updateColor} updateSize={updateSize} /> 
       :
       <>  
       <LanguageSelection toggleChange={toggleChange} change={change} />
       <SDNav toggleMenu={toggleMenu}/>
       <SDHeader />
-      <SDItemsdisplay toggleFilterMenu={toggleFilterMenu} change={change} category={category} color={color} size={size} />
+      <SDItemsdisplay  toggleFilterMenu={toggleFilterMenu} change={change} category={category} color={color} size={size} />
       <SDFooter toggleChange={toggleChange}/>
       <SDHelp />
       </>

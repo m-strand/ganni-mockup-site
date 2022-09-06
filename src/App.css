@@ -8,7 +8,6 @@ body {
     background-color: white;
     z-index: 1;
     width: 100%;
-    top: 0;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
@@ -61,7 +60,6 @@ body {
 }
 
 .header-component {
-  top: 100px;
   position: absolute;
   background-color: white;
   display: flex;
@@ -234,13 +232,34 @@ body {
   
 }
 
-
 .option {
   display: flex;
   justify-content: space-between;
   line-height: 2.5;
 }
 
+.filter-enter {
+  height: 0;
+  overflow: hidden;
+  transition: ease height .5s;
+}
+
+.filter-enter-active {
+  height: auto; 
+  transition: ease height .5s; 
+  
+}
+
+.filter-leave-active {
+  height: auto; 
+  transition: ease height .5s;
+}
+
+.filter-leave {
+  height: 0;
+  overflow: hidden;
+  transition: ease height .5s;
+}
 
 .dot {
   height: 12px;
@@ -293,6 +312,7 @@ body {
   width: 75%;
   display: flex;
   flex-wrap: wrap;
+  justify-content: left;
 }
 
 .itemNormal {
@@ -478,6 +498,7 @@ body {
   float: right;
 }
 
+
 .save_selection {
   font-weight: bold;
 }
@@ -598,6 +619,8 @@ font-size: 12px;
 .top-container {
   border-bottom: 1px solid #dddddd;
 }
+
+
 
 .SDfilter-component {
   font-size: 12px;
