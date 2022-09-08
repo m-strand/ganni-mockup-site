@@ -312,7 +312,7 @@ body {
   width: 75%;
   display: flex;
   flex-wrap: wrap;
-  justify-content: left;
+  text-align: left;
 }
 
 .itemNormal {
