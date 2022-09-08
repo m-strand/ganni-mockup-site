@@ -3,9 +3,10 @@ import ItemCard from "./ItemCard.js";
 
 function ItemsDisplay ({toggleFilterMenu, change, category, color, size}) {
     useEffect(() => {
-        fetch("http://localhost:3000/items", {
+        fetch("https://murmuring-brushlands-50890.herokuapp.com/items", {
             headers: { 
-                'Accept': 'application/json'
+                'Accept': 'application/json',
+                'Access-Control-Allow-Origin' : 'https://airbnb-database.herokuapp.com'
            }})
         .then((response) => response.json())
         .then((data) => {setItems(data)});

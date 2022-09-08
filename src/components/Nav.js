@@ -4,9 +4,10 @@ import ShopCard from "./ShopCard.js";
 function Nav ({change}) {
     const [shopCards, setShopCards] = useState([]);
     useEffect(() => {
-        fetch("http://localhost:3000/shopCard", {
+        fetch("https://murmuring-brushlands-50890.herokuapp.com/shopCard", {
             headers: { 
-                'Accept': 'application/json'
+                'Accept': 'application/json',
+                'Access-Control-Allow-Origin' : 'https://airbnb-database.herokuapp.com'
            }})
         .then((response) => response.json())
         .then((data) => {
