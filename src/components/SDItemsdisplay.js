@@ -6,7 +6,7 @@ function ItemsDisplay ({toggleFilterMenu, change, category, color, size}) {
         fetch("https://murmuring-brushlands-50890.herokuapp.com/items", {
             headers: { 
                 'Accept': 'application/json',
-                'Access-Control-Allow-Origin' : 'https://airbnb-database.herokuapp.com'
+                'Access-Control-Allow-Origin' : 'https://murmuring-brushlands-50890.herokuapp.com/'
            }})
         .then((response) => response.json())
         .then((data) => {setItems(data)});

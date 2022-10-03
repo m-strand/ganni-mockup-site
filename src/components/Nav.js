@@ -7,7 +7,7 @@ function Nav ({change}) {
         fetch("https://murmuring-brushlands-50890.herokuapp.com/shopCard", {
             headers: { 
                 'Accept': 'application/json',
-                'Access-Control-Allow-Origin' : 'https://airbnb-database.herokuapp.com'
+                'Access-Control-Allow-Origin' : 'https://murmuring-brushlands-50890.herokuapp.com/'
            }})
         .then((response) => response.json())
         .then((data) => {
