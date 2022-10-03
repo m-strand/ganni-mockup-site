@@ -2,8 +2,11 @@ import React, {useState, useEffect} from "react";
 import ItemCard from "./ItemCard.js";
 
 function ItemsDisplay ({toggleFilterMenu, change, category, color, size}) {
+    const Scat = category;
+    const Scol = color;
+    const Ssiz = size;
     useEffect(() => {
-        fetch("https://murmuring-brushlands-50890.herokuapp.com/items", {
+        fetch(`https://murmuring-brushlands-50890.herokuapp.com/items?category=${Scat}&color=${Scol}&size=${Ssiz}`, {
             headers: { 
                 'Accept': 'application/json',
                 'Access-Control-Allow-Origin' : 'https://murmuring-brushlands-50890.herokuapp.com/'
